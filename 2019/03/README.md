@@ -2,7 +2,7 @@
 
 ## Prática elaborada por [Ronildo Oliveira](https://github.com/RonildoOliveira/GEAM---UFC-Qx)
 
-Alguns trexos de códigos para estudo, manipulação de imagens, datasets, leitura de arquivos, exibição de métricas, resultados etc.
+Alguns trechos de códigos para estudo, manipulação de imagens, datasets, leitura de arquivos, exibição de métricas, resultados etc.
 
 ## Dependências
 - cv2
